@@ -143,3 +143,23 @@ This command allows you to search one or more files for individual lines that co
 ###### ex:
 > grep -w "grease" longfile.txt longfile2.txt
 (Will search for the word "grease" within longfile.txt and longfile2.txt and display the lines which contain it)
+
+# 1.4 Forking and Cloning
+
+#### Creating a New Repository
+
+To create a new repository on GitHub, first, enter your personal profile page. On the navigation bar at the top of the page, you will see a plus-shaped icon. Clicking on that icon will bring down a dropdown menu. Within the dropdown menu, click "New repository". Select the owner of the repository - which in this case will be you - and then fill in the name for your repository. Add your own description below if desired. Select "Public" as your next choice unless you want your repository to be seen only by you. Check the box marked "Initialize this repository with a README and then change the license in our case to "MIT". Then click "Create repository."
+
+#### How to Fork Repositories
+
+Sometimes, in development, you will want to work on someone else's repository on your own time in your own environment. Luckily, you can copy their repository onto your personal GitHub account so you can dissect and make improvements or modifications on it. This process is called forking.
+
+To fork a repository, you will need to locate said repository on the GitHub site. Click the repository name and then look on the top right hand side of the window. Near the top bar, you should see a button that says "Fork". Once you click on that button, a forked version of that repository will now be available in your personal profile.
+
+#### How to Clone Repositories
+
+Cloning a repository is a way to copy the repository from GitHub onto your local machine. This will aid you in pushing and pulling repositories from and onto GitHub in the future. To do this, open your command line and navigate to the directory which you intend to clone the repository into. Next, use your web browser to navigate to the repository you wish to clone. Toward the bottom right hand of the web-page, you will see a bar that says "HTTPS clone URL" under that text, there is a URL in a small box. Copy that url and go back into the command line. In the command line, type "git clone " and then paste the url and hit Enter. You have successfully cloned the repository!
+
+#### What struggles did you have setting up git and GitHub? What did you learn in the process?
+
+My biggest struggle in setting up Git and GitHub was actually figuring out what git and GitHub are. I had tried half-heartedly to figure it out on my own a few months ago and just couldn't get past the technical jargon ("What's a bash?") but now I have a much more clear picture of what it is. Now that I know this, the branching and the cloning suddenly don't seem so intimidating and I am able to navigate through git without hitting all of the jargon roadblocks.
