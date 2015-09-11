@@ -37,6 +37,7 @@ This command is used to display the directory that the user is currently working
 
 ###### ex:
 > pwd
+
 (May display) /users/Adam/Desktop/
 
 
@@ -46,6 +47,7 @@ This command will display all files and directories within the user's current wo
 
 ###### ex:
 > ls -a
+
 (Will display all files and hidden files within the working directory)
 
 
@@ -55,10 +57,12 @@ The mv command can be used to rename or move a file or directory. This can be do
 
 ###### ex 1:
 > mv test.txt testing.txt
+
 (Will rename test.txt to testing.txt)
 
 ###### ex 2:
 > mv test.txt /Desktop/Bacon/
+
 (Will move test.txt into the Bacon folder)
 
 
@@ -68,10 +72,15 @@ This is the command that is used for navigating between directories. The user ca
 
 ###### ex: 
 > cd Desktop
+
 (Will access the Desktop folder)
+
 > Desktop/>cd ..
+
 (Will return to the main folder)
+
 > cd -
+
 (Will return back to the Desktop folder)
 
 
@@ -80,6 +89,7 @@ This is the command that is used for navigating between directories. The user ca
 
 ###### ex:
 > Desktop/Parent_Test/Child_Test> cd ../Child2_Test
+
 (Will move the working directory from Child_Test to Child2_Test)
 
 
@@ -88,6 +98,7 @@ This is the command that is used for navigating between directories. The user ca
 
 ###### ex: 
 > touch HelloAll.txt
+
 (Will create an empty text file called HelloAll.txt) 
 
 
@@ -97,6 +108,7 @@ This will create a directory within the working directory.
 
 ###### ex:
 > mkdir New_Folder
+
 (Will create a directory within the working directory called New_Folder)
 
 
@@ -106,6 +118,7 @@ The less command can be used as a means of scrolling through files.
 
 ###### ex:
 > less longfile.txt
+
 (Will open longfile.txt and the space bar and b keys can be used to scroll forward and backward through pages respectively)
 
 
@@ -115,6 +128,7 @@ This will remove the directory that is given following this command.
 
 ###### ex:
 > rmdir Desktop
+
 (Will remove the Desktop directory assuming it exists within the working directory)
 
 
@@ -123,7 +137,9 @@ This will remove the directory that is given following this command.
 This command will remove the file proceeding the command. Adding a -f option will force the deletion of the file.
 
 ###### ex:
+
 > rm -f example.txt
+
 (Will force the removal of example.txt)
 
 
@@ -133,6 +149,7 @@ This command displays the bash's help file containing information on any valid c
 
 ###### ex: 
 > help rm
+
 (Will display information on how to use the rm command)
 
 
@@ -142,6 +159,7 @@ This command allows you to search one or more files for individual lines that co
 
 ###### ex:
 > grep -w "grease" longfile.txt longfile2.txt
+
 (Will search for the word "grease" within longfile.txt and longfile2.txt and display the lines which contain it)
 
 # 1.4 Forking and Cloning
