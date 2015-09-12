@@ -36,9 +36,11 @@ I think the most important thing I learned about in this challenge was the meani
 ### Did you find any resources on your own that helped you better understand a topic? If so, please list it.
 
 Here are some resources I checked out that were fairly easy to understand:
-[Choose-a-license](http://choosealicense.com/)
-[Open Source explained in Lego](https://www.youtube.com/watch?v=a8fHgx9mE5U)
-[What is Open Source & Why Do I Feel So Guilty](https://www.youtube.com/watch?v=UIDb6VBO9os)
+
+-[Choose-a-license](http://choosealicense.com/)
+-[Open Source explained in Lego](https://www.youtube.com/watch?v=a8fHgx9mE5U)
+-[What is Open Source & Why Do I Feel So Guilty](https://www.youtube.com/watch?v=UIDb6VBO9os)
 
 The Cathedral and the Bazaar also came pretty highly recommended:
-[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+
+-[The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)

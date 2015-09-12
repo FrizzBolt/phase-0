@@ -34,30 +34,39 @@ The three stages of git change are as follows. There's the working directory whi
 #### Write a handy cheatsheet of the commands you need to commit your changes?
 
 **git clone GitHub-clone-url**
+
 Clone the GitHub repository at the URL to the local machine
 
 **git commit -m "50-Char-Message"**
+
 Commit all staged items and add a message for git log.
 
 **git checkout branch-name**
+
 Move to a new branch.
 
 **git checkout -b branch-name**
+
 Create and move to a new branch
 
 **git push origin branch-name**
+
 Push branch to Github
 
 **git pull**
+
 Pull current changes from GitHub.
 
 **git branch -d branch-name**
+
 Delete branch
 
 **git status**
+
 Check the status of staged, unstaged, and modified items.
 
 **git log**
+
 View log of previous commits.
 
 
