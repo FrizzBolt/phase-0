@@ -1,6 +1,6 @@
 ###My Site Map
 
-![Site Map](/imgs/site-map.png)
+<img src="/imgs/site-map" alt"site map">
 
 ###What are the 6 Phases of Web Design?
 
