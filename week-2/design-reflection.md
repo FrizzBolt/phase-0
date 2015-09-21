@@ -1,6 +1,6 @@
 ###My Site Map
 
-<img src="https://github.com/FrizzBolt/phase-0/blob/master/week-2/imgs/site-map.png" alt"site map">
+![Site Map](imgs/site-map.png)
 
 ###What are the 6 Phases of Web Design?
 
