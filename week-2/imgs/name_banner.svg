@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:pencil="http://www.evolus.vn/Namespace/Pencil"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="458.97552"
+   height="131.32454"
+   id="exportedSVG"
+   version="1.1"
+   pencil:version="1.2.2"
+   sodipodi:docname="name_banner.svg"
+   inkscape:version="0.91 r13725">
+  <metadata
+     id="metadata3460">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3458" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1275"
+     inkscape:window-height="652"
+     id="namedview3456"
+     showgrid="false"
+     inkscape:zoom="0.98603159"
+     inkscape:cx="369.93183"
+     inkscape:cy="95.969801"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3436"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <g
+     inkscape:label="Untitled Page"
+     inkscape:groupmode="layer"
+     id="layer_untitled_page"
+     transform="translate(-2.3749999,-8.5400026)">
+    <g
+       id="g3436">
+      <rect
+         x="0"
+         y="0"
+         width="208.38333"
+         height="208.38333"
+         id="rect3438"
+         style="fill:none" />
+      <g
+         pencil:type="Shape"
+         pencil:def="Evolus.Common:PlainTextV2"
+         id="3447a081f2d93b46b77804ab2e3ecc8c"
+         transform="matrix(2.2451708,0,0,2.2451708,0.41047548,67.947222)">
+        <pencil:metadata>
+          <pencil:property
+             name="disabled">false</pencil:property>
+          <pencil:property
+             name="width">100,0</pencil:property>
+          <pencil:property
+             name="fixedWidth">false</pencil:property>
+          <pencil:property
+             name="label">Josh Abrams</pencil:property>
+          <pencil:property
+             name="textColor">#000000FF</pencil:property>
+          <pencil:property
+             name="textFont">Avenir Next|normal|normal|35px|none</pencil:property>
+          <pencil:property
+             name="textAlign">0,0</pencil:property>
+        </pencil:metadata>
+        <rect
+           x="0"
+           y="0"
+           style="display:none;visibility:hidden;fill:none;stroke:none"
+           pencil:name="bgRect"
+           id="010d2c517ed1544c9031002b678a18b1"
+           width="0"
+           height="0" />
+        <text
+           xml:space="preserve"
+           pencil:name="text"
+           id="9316901fedb7cc4f88cf41f52417a71c"
+           style="font-style:normal;font-weight:normal;font-size:35px;font-family:'Avenir Next';text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"><tspan
+             x="0"
+             y="0"
+             id="tspan3443">Josh Abrams</tspan></text>
+      </g>
+      <g
+         pencil:type="Shape"
+         pencil:def="Evolus.Common:PlainTextV2"
+         id="06a47a0e8f9a514485fec4d0337af87e"
+         transform="matrix(2.2451708,0,0,2.2451708,65.520431,130.81201)">
+        <pencil:metadata>
+          <pencil:property
+             name="disabled">false</pencil:property>
+          <pencil:property
+             name="width">100,0</pencil:property>
+          <pencil:property
+             name="fixedWidth">false</pencil:property>
+          <pencil:property
+             name="label">Full Stack Development</pencil:property>
+          <pencil:property
+             name="textColor">#000000FF</pencil:property>
+          <pencil:property
+             name="textFont">Avenir|normal|normal|14px|none</pencil:property>
+          <pencil:property
+             name="textAlign">0,0</pencil:property>
+        </pencil:metadata>
+        <rect
+           x="0"
+           y="0"
+           style="display:none;visibility:hidden;fill:none;stroke:none"
+           pencil:name="bgRect"
+           id="5b0c6266f01045438aba86f228955903"
+           width="0"
+           height="0" />
+        <text
+           xml:space="preserve"
+           pencil:name="text"
+           id="2b12116b0dd9c34a93b370a397354461"
+           style="font-style:normal;font-weight:normal;font-size:14px;font-family:Avenir;text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"><tspan
+             x="0"
+             y="0"
+             id="tspan3448">Full Stack Development</tspan></text>
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.36775613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 9.2217548,84.362717 442.0990052,0"
+         id="path4262"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.42837596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 39.086112,91.911589 380.093458,0"
+         id="path4262-8"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
