@@ -1,0 +1,99 @@
+/*
+
+
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+You need to add the link tag in your html document head or the html file won't reference the stylesheet.
+You can 2 or more stylesheets, but be careful not to add too many fonts or it will increase the load time
+of your site.
+
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+This was the first time I've ever used the column selector and I wasn't quite sure how it would work out.
+We ended up needing to check out two different sources to find out how to get it to work since it did not work the first time.
+We found a tutorial that directed us toward -webkit and -mozilla selectors which works for differnet browsers and
+it ended up dispalying correctly. For the vertical lines, we added border-top and border-bottom to different
+sections.
+
+
+What CSS did you use to modify the element style (like size, color, etc.)?
+
+We used font-size, text-align, background-color, color, border-top, column count, and border-bottom. We also used
+class selectors as well as pseudo-class selectors.
+
+
+Did you modify the HTML to include classes or ids? If so, which did you chose and why? If you didn't, 
+how would you know which one to add to your HTML?
+
+We needed to add classes to certain sections. To get the descriptive text below the links to display
+as smaller, we needed to use nested element selectors which ended up being ul li ul li which was pretty
+epic.
+
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed
+best practices and why?
+
+The actual Berkshire site is a mess and doesn't even use CSS. They really need to update the site. Our
+HTML looks way cleaner after adding CSS elements even if we could still do a little housekeeping on our
+version as far as redunant tags go.
+
+
+*/
+
+html {
+	background-color: #ffffff;
+}
+
+body {
+	color: #000080;
+}
+
+a {
+	color: #800080;
+}
+
+a:visited {
+	color: #ff0000;
+
+}
+
+section {    
+	-webkit-column-count: 2; 
+    -moz-column-count: 2;
+    column-count: 2;
+}
+
+ul li ul li {
+	font-size: 9px;
+}
+
+header {
+	font-style: bold;
+	font-size: 2em;
+	text-align: center;
+	border-bottom: 1px solid #000000;
+}
+
+h3::first-letter {
+	font-size: 1.5em;
+}
+
+footer {
+	border-top: 1px solid #000000;
+}
+
+.call {
+	font-size: 0.8em;
+	text-align: center;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
+.comments {
+	font-size: 0.8em;
+}
+
+.disclaimer {
+	font-size: 0.8em;
+}
