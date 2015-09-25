@@ -1,3 +1,39 @@
+######Screenshot 1:
+
+![Screenshot 1](screenshots/screenshot-1.png)
+
+######Screenshot 2:
+
+![Screenshot 2](screenshots/screenshot-2.png)
+
+######Screenshot 3:
+
+![Screenshot 3](screenshots/screenshot-3.png)
+
+######Screenshot 4:
+
+![Screenshot 4](screenshots/screenshot-4.png)
+
+######Screenshot 5:
+
+![Screenshot 5](screenshots/screenshot-5.png)
+
+######Screenshot 6:
+
+![Screenshot 6](screenshots/screenshot-6.png)
+
+######Screenshot 7:
+
+![Screenshot 7](screenshots/screenshot-7.png)
+
+######Screenshot 8:
+
+![Screenshot 8](screenshots/screenshot-8.png)
+
+######Screenshot 9:
+
+![Screenshot 9](screenshots/screenshot-9.png)
+
 ###How can you use Chrome's DevTools inspector to help you format or position elements?
 
 DevTools allows you to reformat your CSS and see how it affects the web-page in real-time. This is useful because it means that you don't have to keep reloading your browser to see any changes and given the fickle nature of CSS, this can be a major help.
