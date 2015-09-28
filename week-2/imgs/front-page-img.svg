@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:pencil="http://www.evolus.vn/Namespace/Pencil"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="612.41907"
+   height="606.60577"
+   id="exportedSVG"
+   version="1.1"
+   pencil:version="1.2.2"
+   sodipodi:docname="front-page-img.svg"
+   inkscape:version="0.91 r13725">
+  <metadata
+     id="metadata4255">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4253" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="690"
+     id="namedview4251"
+     showgrid="false"
+     fit-margin-top="1.6"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.46371868"
+     inkscape:cx="488.2043"
+     inkscape:cy="219.84482"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer_untitled_page" />
+  <g
+     inkscape:label="Untitled Page"
+     inkscape:groupmode="layer"
+     id="layer_untitled_page"
+     transform="translate(106.4529,119.35749)">
+    <rect
+       style="fill:none"
+       id="rect4218"
+       height="868"
+       width="868"
+       y="-43.129597"
+       x="-230.74335" />
+    <g
+       transform="matrix(1.5603034,0,0,1.6451551,270.75045,-61.822213)"
+       id="82ceb7037bbe944b837bf6e42949523b"
+       pencil:def="Evolus.Sketchy.GUI:box"
+       pencil:type="Shape">
+      <pencil:metadata>
+        <pencil:property
+           name="box">149,99</pencil:property>
+        <pencil:property
+           name="textPadding">7.45,6.6000000000000005</pencil:property>
+        <pencil:property
+           name="fillColor">#FFFFFF00</pencil:property>
+        <pencil:property
+           name="strokeColor">#000000FF</pencil:property>
+        <pencil:property
+           name="strokeStyle">1|</pencil:property>
+        <pencil:property
+           name="textContent" />
+        <pencil:property
+           name="textFont">'Comic Sans MS'|normal|normal|12px|none</pencil:property>
+        <pencil:property
+           name="textColor">#000000FF</pencil:property>
+        <pencil:property
+           name="textAlign">1,1</pencil:property>
+      </pencil:metadata>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,0 c 50,1 99,1 149,0 1,33 1,66 0,99 C 99,99 50,99 0,99 1,66 1,33 0,0 Z"
+         transform="translate(0.5,0.5)"
+         id="4077e42f3e1e9340bff65e1989654f0d"
+         pencil:name="line1"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1" />
+      <text
+         transform="translate(75,50)"
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Comic Sans MS';text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"
+         id="9be7ef98984f6e4785c8777eb32c5919"
+         pencil:name="text" />
+    </g>
+    <g
+       transform="matrix(1.5603034,0,0,1.6451551,270.75045,263.91849)"
+       id="d3987846a6c23f42afc61f7e8e0e9e07"
+       pencil:def="Evolus.Sketchy.GUI:box"
+       pencil:type="Shape">
+      <pencil:metadata>
+        <pencil:property
+           name="box">149,100</pencil:property>
+        <pencil:property
+           name="textPadding">7.45,6.666666666666666</pencil:property>
+        <pencil:property
+           name="fillColor">#FFFFFF00</pencil:property>
+        <pencil:property
+           name="strokeColor">#000000FF</pencil:property>
+        <pencil:property
+           name="strokeStyle">1|</pencil:property>
+        <pencil:property
+           name="textContent" />
+        <pencil:property
+           name="textFont">'Comic Sans MS'|normal|normal|12px|none</pencil:property>
+        <pencil:property
+           name="textColor">#000000FF</pencil:property>
+        <pencil:property
+           name="textAlign">1,1</pencil:property>
+      </pencil:metadata>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,0 c 50,-2 99,-2 149,0 1,33 1,67 0,100 -50,1 -99,1 -149,0 C 0,67 0,33 0,0 Z"
+         transform="translate(0.5,0.5)"
+         id="f17a78a0532ab14da2c2a3b7272d7c3c"
+         pencil:name="line1"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1" />
+      <text
+         transform="translate(75,50)"
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Comic Sans MS';text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"
+         id="d217899dfec01c48b22da44dd6d1ab88"
+         pencil:name="text" />
+    </g>
+    <g
+       transform="matrix(1.5603034,0,0,1.6451551,-74.076593,370.85357)"
+       id="d092f77e7f36a648a7f3f4d2dcdee3ec"
+       pencil:def="Evolus.Sketchy.GUI:box"
+       pencil:type="Shape">
+      <pencil:metadata>
+        <pencil:property
+           name="box">110,69</pencil:property>
+        <pencil:property
+           name="textPadding">5.5,4.6000000000000005</pencil:property>
+        <pencil:property
+           name="fillColor">#FFFFFF00</pencil:property>
+        <pencil:property
+           name="strokeColor">#000000FF</pencil:property>
+        <pencil:property
+           name="strokeStyle">1|</pencil:property>
+        <pencil:property
+           name="textContent" />
+        <pencil:property
+           name="textFont">'Comic Sans MS'|normal|normal|12px|none</pencil:property>
+        <pencil:property
+           name="textColor">#000000FF</pencil:property>
+        <pencil:property
+           name="textAlign">1,1</pencil:property>
+      </pencil:metadata>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,0 c 37,1 73,1 110,0 1,23 1,46 0,69 C 73,70 37,70 0,69 0,46 0,23 0,0 Z"
+         transform="translate(0.5,0.5)"
+         id="bc214dea6dce69478d4e7008b63c176a"
+         pencil:name="line1"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1" />
+      <text
+         transform="translate(55,35)"
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Comic Sans MS';text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"
+         id="fff5d475614f174dacace866a78afcd8"
+         pencil:name="text" />
+    </g>
+    <g
+       transform="matrix(1.5603034,0,0,1.6451551,-105.28266,102.69329)"
+       id="f5b3306e505a0541bc2bd5bd2fe11f6a"
+       pencil:def="Evolus.Sketchy.GUI:box"
+       pencil:type="Shape">
+      <pencil:metadata>
+        <pencil:property
+           name="box">149,100</pencil:property>
+        <pencil:property
+           name="textPadding">7.45,6.666666666666666</pencil:property>
+        <pencil:property
+           name="fillColor">#FFFFFF00</pencil:property>
+        <pencil:property
+           name="strokeColor">#000000FF</pencil:property>
+        <pencil:property
+           name="strokeStyle">1|</pencil:property>
+        <pencil:property
+           name="textContent" />
+        <pencil:property
+           name="textFont">'Comic Sans MS'|normal|normal|12px|none</pencil:property>
+        <pencil:property
+           name="textColor">#000000FF</pencil:property>
+        <pencil:property
+           name="textAlign">1,1</pencil:property>
+      </pencil:metadata>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,0 c 50,1 99,1 149,0 0,33 0,67 0,100 C 99,99 50,99 0,100 -1,67 -1,33 0,0 Z"
+         transform="translate(0.5,0.5)"
+         id="f210e95b3f2d294491f6462348b62d21"
+         pencil:name="line1"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1" />
+      <text
+         transform="translate(75,50)"
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Comic Sans MS';text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"
+         id="efceab8306bc3145ace0af26e72f2d36"
+         pencil:name="text" />
+    </g>
+    <g
+       transform="matrix(1.5603034,0,0,1.6451551,125.64224,184.95105)"
+       id="2e74851ad783134f8f0b086d6bfc3d15"
+       pencil:sc="Horizontal Line"
+       pencil:def="Evolus.Sketchy.GUI:line"
+       pencil:type="Shape">
+      <pencil:metadata>
+        <pencil:property
+           name="a">0,0</pencil:property>
+        <pencil:property
+           name="b">166,0</pencil:property>
+        <pencil:property
+           name="mode">horizontal</pencil:property>
+        <pencil:property
+           name="strokeColor">#000000FF</pencil:property>
+        <pencil:property
+           name="strokeStyle">1|</pencil:property>
+      </pencil:metadata>
+      <g
+         style="stroke:#000000;stroke-width:1;stroke-opacity:1"
+         transform="translate(0.5,0.5)"
+         id="1853dd7a0d62ac4a919ca4f5dd73fbe9"
+         pencil:name="rect">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 0,0 C 55,0 111,0 166,0"
+           transform="translate(0.5,0.5)"
+           id="3bae2a02ccc8e641bac18a9699c5ca8c"
+           pencil:name="bg"
+           style="fill:none;stroke:#ffffff;stroke-width:8px;stroke-opacity:0" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 0,0 C 55,2 111,2 166,0"
+           transform="translate(0.5,0.5)"
+           id="fdff39f19255d640b417b912cdd4ba28"
+           pencil:name="line1"
+           style="fill:none;stroke-linejoin:round" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.5603034,0,0,1.6451551,384.6526,101.04814)"
+       id="e0cadd480b7f3842a15a365a14a37423"
+       pencil:sc="Vertical Line"
+       pencil:def="Evolus.Sketchy.GUI:line"
+       pencil:type="Shape">
+      <pencil:metadata>
+        <pencil:property
+           name="a">0,0</pencil:property>
+        <pencil:property
+           name="b">0,98</pencil:property>
+        <pencil:property
+           name="mode">vertical</pencil:property>
+        <pencil:property
+           name="strokeColor">#000000FF</pencil:property>
+        <pencil:property
+           name="strokeStyle">1|</pencil:property>
+      </pencil:metadata>
+      <g
+         style="stroke:#000000;stroke-width:1;stroke-opacity:1"
+         transform="translate(0.5,0.5)"
+         id="f68c89825f03e04380b8401a3a62738b"
+         pencil:name="rect">
+        <path
+           inkscape:connector-curvature="0"
+           d="M 0,0 C 0,33 0,65 0,98"
+           transform="translate(0.5,0.5)"
+           id="7f2a6902aa202243b1de72ae6cb17b0a"
+           pencil:name="bg"
+           style="fill:none;stroke:#ffffff;stroke-width:8px;stroke-opacity:0" />
+        <path
+           inkscape:connector-curvature="0"
+           d="M 0,0 C -1,33 -1,65 0,98"
+           transform="translate(0.5,0.5)"
+           id="98dbd5ad82dc4f4da013f672c3a3465b"
+           pencil:name="line1"
+           style="fill:none;stroke-linejoin:round" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.5603034,0,0,1.6451551,-66.275076,-117.75749)"
+       id="fe908bf146d18143a1d5d75f2194f797"
+       pencil:def="Evolus.Sketchy.GUI:box"
+       pencil:type="Shape">
+      <pencil:metadata>
+        <pencil:property
+           name="box">112,71</pencil:property>
+        <pencil:property
+           name="textPadding">5.6000000000000005,4.733333333333333</pencil:property>
+        <pencil:property
+           name="fillColor">#FFFFFF00</pencil:property>
+        <pencil:property
+           name="strokeColor">#000000FF</pencil:property>
+        <pencil:property
+           name="strokeStyle">1|</pencil:property>
+        <pencil:property
+           name="textContent" />
+        <pencil:property
+           name="textFont">'Comic Sans MS'|normal|normal|12px|none</pencil:property>
+        <pencil:property
+           name="textColor">#000000FF</pencil:property>
+        <pencil:property
+           name="textAlign">1,1</pencil:property>
+      </pencil:metadata>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 0,0 c 37,1 75,1 112,0 0,24 0,47 0,71 C 75,72 37,72 0,71 -1,47 -1,24 0,0 Z"
+         transform="translate(0.5,0.5)"
+         id="d4d20fc8f75a744a80ecf4c6220f181c"
+         pencil:name="line1"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1" />
+      <text
+         transform="translate(56,36)"
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Comic Sans MS';text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"
+         id="012d808a98a8f24abfbde2b57c9a0383"
+         pencil:name="text" />
+    </g>
+    <g
+       transform="matrix(1.5603034,0,0,1.6451551,10.179789,206.33806)"
+       id="3c16a8696038314c8aabb0ee9f6238b9"
+       pencil:sc="Vertical Line"
+       pencil:def="Evolus.Sketchy.GUI:line"
+       pencil:type="Shape">
+      <pencil:metadata>
+        <pencil:property
+           name="a">0,35</pencil:property>
+        <pencil:property
+           name="b">0,100</pencil:property>
+        <pencil:property
+           name="mode">vertical</pencil:property>
+        <pencil:property
+           name="strokeColor">#000000FF</pencil:property>
+        <pencil:property
+           name="strokeStyle">1|</pencil:property>
+      </pencil:metadata>
+      <g
+         style="stroke:#000000;stroke-width:1;stroke-opacity:1"
+         transform="translate(0.5,0.5)"
+         id="4aa8c31215a49a41a0e73b9dd4884c3a"
+         pencil:name="rect">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 0,35 c -1,22 -1,43 0,65"
+           transform="translate(0.5,0.5)"
+           id="77a3d7dec9d60d4c9f0969f1df8ff716"
+           pencil:name="bg"
+           style="fill:none;stroke:#ffffff;stroke-width:8px;stroke-opacity:0" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 0,35 c -1,22 -1,43 0,65"
+           transform="translate(0.5,0.5)"
+           id="141a908100d8134489d7e3662d989cba"
+           pencil:name="line1"
+           style="fill:none;stroke-linejoin:round" />
+      </g>
+    </g>
+    <g
+       transform="matrix(1.5603034,0,0,1.6451551,13.300396,-60.177058)"
+       id="70caf381af835d49846aaef7495e5e5b"
+       pencil:sc="Vertical Line"
+       pencil:def="Evolus.Sketchy.GUI:line"
+       pencil:type="Shape">
+      <pencil:metadata>
+        <pencil:property
+           name="a">0,37</pencil:property>
+        <pencil:property
+           name="b">0,100</pencil:property>
+        <pencil:property
+           name="mode">vertical</pencil:property>
+        <pencil:property
+           name="strokeColor">#000000FF</pencil:property>
+        <pencil:property
+           name="strokeStyle">1|</pencil:property>
+      </pencil:metadata>
+      <g
+         style="stroke:#000000;stroke-width:1;stroke-opacity:1"
+         transform="translate(0.5,0.5)"
+         id="d22241209e15d942866eb9637663f86e"
+         pencil:name="rect">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 0,37 c 0,21 0,42 0,63"
+           transform="translate(0.5,0.5)"
+           id="db0cce80bbfb3e44aae55116561404c6"
+           pencil:name="bg"
+           style="fill:none;stroke:#ffffff;stroke-width:8px;stroke-opacity:0" />
+        <path
+           inkscape:connector-curvature="0"
+           d="m 0,37 c 0,21 0,42 0,63"
+           transform="translate(0.5,0.5)"
+           id="09d1adfa0dc1ef4385d6337d2238d225"
+           pencil:name="line1"
+           style="fill:none;stroke-linejoin:round" />
+      </g>
+    </g>
+  </g>
+</svg>

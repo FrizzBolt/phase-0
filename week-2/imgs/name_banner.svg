@@ -8,8 +8,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="458.97552"
-   height="131.32454"
+   width="464.25803"
+   height="129.13618"
    id="exportedSVG"
    version="1.1"
    pencil:version="1.2.2"
@@ -43,8 +43,8 @@
      id="namedview3456"
      showgrid="false"
      inkscape:zoom="0.98603159"
-     inkscape:cx="369.93183"
-     inkscape:cy="95.969801"
+     inkscape:cx="161.15972"
+     inkscape:cy="14.647931"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -58,7 +58,7 @@
      inkscape:label="Untitled Page"
      inkscape:groupmode="layer"
      id="layer_untitled_page"
-     transform="translate(-2.3749999,-8.5400026)">
+     transform="translate(-0.80338174,-10.539795)">
     <g
        id="g3436">
       <rect
@@ -72,7 +72,7 @@
          pencil:type="Shape"
          pencil:def="Evolus.Common:PlainTextV2"
          id="3447a081f2d93b46b77804ab2e3ecc8c"
-         transform="matrix(2.2451708,0,0,2.2451708,0.41047548,67.947222)">
+         transform="matrix(2.2451708,0,0,2.2451708,0.41047548,69.947222)">
         <pencil:metadata>
           <pencil:property
              name="disabled">false</pencil:property>
@@ -104,13 +104,14 @@
            style="font-style:normal;font-weight:normal;font-size:35px;font-family:'Avenir Next';text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"><tspan
              x="0"
              y="0"
-             id="tspan3443">Josh Abrams</tspan></text>
+             id="tspan3443"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35.00012207px;line-height:125%;font-family:'Avenir Next';-inkscape-font-specification:'Avenir Next, Semi-Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">Josh Abrams</tspan></text>
       </g>
       <g
          pencil:type="Shape"
          pencil:def="Evolus.Common:PlainTextV2"
          id="06a47a0e8f9a514485fec4d0337af87e"
-         transform="matrix(2.2451708,0,0,2.2451708,65.520431,130.81201)">
+         transform="matrix(2.2451708,0,0,2.2451708,63.430433,130.81201)">
         <pencil:metadata>
           <pencil:property
              name="disabled">false</pencil:property>
@@ -139,19 +140,21 @@
            xml:space="preserve"
            pencil:name="text"
            id="2b12116b0dd9c34a93b370a397354461"
-           style="font-style:normal;font-weight:normal;font-size:14px;font-family:Avenir;text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"><tspan
+           style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:Avenir;text-decoration:none;text-decoration-line:none;fill:#000000;fill-opacity:1"
+           sodipodi:linespacing="125%"><tspan
              x="0"
              y="0"
-             id="tspan3448">Full Stack Development</tspan></text>
+             id="tspan3448"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.00004864px;line-height:125%;font-family:Avenir;-inkscape-font-specification:'Avenir, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start">Full Stack Development</tspan></text>
       </g>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.36775613;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 9.2217548,84.362717 442.0990052,0"
+         d="m 11.882899,84.362717 442.099001,0"
          id="path4262"
          inkscape:connector-curvature="0" />
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.42837596;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 39.086112,91.911589 380.093458,0"
+         d="m 42.885672,91.911589 380.093458,0"
          id="path4262-8"
          inkscape:connector-curvature="0" />
     </g>

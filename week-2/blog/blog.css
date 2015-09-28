@@ -1,0 +1,19 @@
+time a {
+	font-style: sans-serif black;
+	font-size: 1.1em;
+	text-decoration: none;
+}
+
+time a:hover {
+	font-style: sans-serif black;
+	font-size: 1.1em;
+}
+
+time a:visited {
+	font color: dark-red;
+}
+
+section h4 {
+	margin-left: 2em;
+	margin-bottom: 0;
+}

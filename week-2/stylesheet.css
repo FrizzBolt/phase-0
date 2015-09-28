@@ -1,0 +1,72 @@
+.stretch {
+	width: 100%;
+	height: auto;
+	margin-right: 0 auto;
+	margin-left: 0 auto;
+}
+
+.center {
+	position: relative;
+	display: block;
+	border-top: 1em;
+	left: 25%;
+	right: 25%;
+}
+
+html {
+	background-image: url(imgs/bg-texture.jpg);
+	background-color: #202020;
+}
+
+figure {
+	-webkit-column-count: 2;
+	column-count: 2;
+	height: 200px;
+}
+
+figure img {
+	border-radius: 4px;
+	margin-left: 8%;
+}
+
+figcaption {
+	font-style: bold;
+}
+
+body {
+	font-family: 'Signika Negative', sans-serif;
+	margin: 2% 7.5% 0% 7.5%;
+	height: 100%;
+	background-image: url(imgs/page-bg.jpg);
+	background-color: white;
+	-webkit-box-shadow: -2px 12px 46px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: -2px 12px 46px 0px rgba(0,0,0,0.75);
+	box-shadow: -2px 12px 46px 0px rgba(0,0,0,0.75);
+}
+
+nav a {
+	color: black;
+	text-decoration: none;
+	font-family: 'signika Negative', sans-serif;
+	font-size: 1.4em;
+	text-align: right;
+	float: right;
+	margin: 1.5% 3% 3% 3%;
+	
+}
+
+nav a:hover {
+	color: black;
+	text-decoration: overline;
+	margin: 1.5% 3% 3% 3%;
+}
+
+footer {
+	text-align: center;
+}
+
+.footlink {
+	display: inline-block;
+	vertical-align: middle;
+	margin:0 0.1em;
+}
