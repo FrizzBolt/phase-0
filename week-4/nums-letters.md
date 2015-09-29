@@ -3,8 +3,11 @@
 The puts command prints the output. It then creates a new line and returns nil.
 
 Ex:
+
 	> puts "Hallo."
+
 	>(Will Return) Hallo.
+
 	>
 
 ###What is an integer? What is a float?
@@ -17,13 +20,17 @@ integer division? How would you explain the difference to someone who doesn't kn
 Integer division will subtract any remaining decimal places when the value is returned.
 
 Ex:
+
 	>puts 9 / 5
+
 	>(will return) 1
 
 Float division will return the answer to a maximum of 15 decimal places before rounding up to the 15th place.
 
 Ex:
+
 	>puts 9.0 / 5.0
+
 	>(will return) 1.8
 
 ###How does Ruby handle addition, subtraction, multiplication, and division of numbers?
