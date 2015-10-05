@@ -1,8 +1,11 @@
 
+# Calculate a Factorial
+
 # I worked on this challenge with Eunice Do.
 
 
 # Your Solution Below
+
 
 =begin
 	
@@ -16,6 +19,7 @@ Output: A factorial of the input number
 - Return X
 
 =end
+
 
 def factorial(number)
   y = number - 1
