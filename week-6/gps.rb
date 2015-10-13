@@ -1,33 +1,34 @@
 # Your Names
-# 1)
-# 2)
+# 1) Deanna Warren
+# 2) Josh Abrams
 
-# We spent [#] hours on this challenge.
+# We spent 1 hours on this challenge.
 
+
+  
 # Bakery Serving Size portion calculator.
 
 def serving_size_calc(item_to_make, order_quantity)
-  library = {"cookie" => 1, "cake" =>  5, "pie" => 7}
-  error_counter = 3
+#Hash defining food as keys and serving size as values
+  menu = {"cookie" => 1, "cake" =>  5, "pie" => 7}
 
-  library.each do |food|
-    if library[food] != library[item_to_make]
-      p error_counter += -1
-    end
-  end
+#Iterates through library checking to see if items to make are not equal to items in library. Error counter should return either 1 or 0
 
-  if error_counter > 0
+  if menu.has_key?(item_to_make) == false
     raise ArgumentError.new("#{item_to_make} is not a valid input")
   end
 
-  serving_size = library.values_at(item_to_make)[0]
-  serving_size_mod = order_quantity % serving_size
+#Setting up whether or not you have an even number to the serving size. 
+  serving_size = menu[item_to_make]
+#Returns a remainder after diving order quantity by serving size calculating leftover ingredients
+  leftover_ingredients = order_quantity % serving_size
 
-  case serving_size_mod
+#Returns notification of quantity of items needed and any remaining ingredients if available.
+  case leftover_ingredients
   when 0
     return "Calculations complete: Make #{order_quantity/serving_size} of #{item_to_make}"
   else
-    return "Calculations complete: Make #{order_quantity/serving_size} of #{item_to_make}, you have #{serving_size_mod} leftover ingredients. Suggested baking items: TODO: MAKE THIS FEATURE"
+    return "Calculations complete: Make #{order_quantity/serving_size} of #{item_to_make}, you have #{leftover_ingredients} leftover ingredients. Suggested baking items: TODO: MAKE THIS FEATURE"
   end
 end
 
@@ -40,3 +41,4 @@ p serving_size_calc("cookie", 10)
 p serving_size_calc("THIS IS AN ERROR", 5)
 
 #  Reflection
+
