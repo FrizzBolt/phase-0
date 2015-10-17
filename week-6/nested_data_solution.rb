@@ -51,6 +51,7 @@ number_array.map! do |element|
   end
 end
   p number_array
+  
 # Bonus:
 
 startup_names = ["bit", ["find", "fast", ["optimize", "scope"]]]
