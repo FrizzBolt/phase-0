@@ -94,6 +94,24 @@ end
 =begin
 
 
+What was the most difficult part of this challenge for you and your pair?
+
+The most difficult part for us was refactoring. We decided to make a non-destructive solution
+originally which ended up being messy and unnecessary. We refactored and kept running into odd
+errors. After a bunch of debugging, it finall started working again.
+
+
+What new methods did you find to help you when you refactored?
+
+We hadn't used #each_with_index before. My partner also used the #inject method which I had
+not seen before. That one will definitely come in handy in the future.
+
+
+What concepts or learnings were you able to solidify in this challenge?
+
+There were some issues that I hadn't grasped yet in turns of destructive and non-destructive
+methods. There are certain destructive enumerator methods prebuilt into Ruby that cannot be
+run in certain conditions. I also learned some new methods as well.
 
 
 =end

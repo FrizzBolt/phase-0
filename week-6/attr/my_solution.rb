@@ -4,6 +4,22 @@
 
 # I spent 2 hours on this challenge.
 
+=begin
+  
+
+PSEUDOCODE:
+Input: A name
+Output: A string with a greeting and the name contained within the greeting.
+Steps:
+1. Define an attribute accessor within the NameData class.
+2. Initialize a variable for name.
+3. Initialize an instance variable within the Greeting class and set it to a new NameData class instance.
+4. Set that instance of the name within the Greetings class equal to a name.
+5. Define a class with the greeting referencing the name instance.
+  
+=end
+
+
 class NameData
 
   attr_accessor  :name
