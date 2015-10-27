@@ -1,6 +1,8 @@
+##Challenge 8.5 - More Schemas
+
 ###One-to-One Database Schema
 
-![one-to-one schema](imgs/8-5singschema.png)
+![one-to-one schema](imgs/8-5singleschema.png)
 
 ###Many-to-many Database Schema
 
