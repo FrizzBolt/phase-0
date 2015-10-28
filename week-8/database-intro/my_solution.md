@@ -38,7 +38,7 @@
 
 `SELECT region_name FROM regions WHERE region_name LIKE "%Central%";`
 
-10.
+**10. Select the region_name and the state_name for all states and regions in ascending order by region_id. Refer to the region by name. (This will involve joining the tables):**
 
 `SELECT region_name, state_name FROM states LEFT JOIN regions ON states.state_name=regions.region_name;`
 
