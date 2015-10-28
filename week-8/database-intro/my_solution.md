@@ -78,20 +78,25 @@ There are several different commands for querying data from within a SQL databas
 For instance, if you wanted to display all of the data in the table, you could just type:
 
 `SELECT * FROM table;`
-- with table being the table name. If you wanted to just display one column, you could alter that as:
+
+-with table being the table name. If you wanted to just display one column, you could alter that as:
 
 `SELECT column FROM table;`
+
 -with column being the column name. Ok. So say you want to select data from two columns and display it. Easy!
 
 `SELECT column1, column2 FROM table;`
+
 -and it will display both. Now, say you had a column in your table called 'age' and you only wanted to display
 the ages of anyone over 20.
 
 `SELECT name, age FROM table WHERE age > 20;`
+
 -and it will display the name and age of anyone over 20. Ok. Last example. Say you have a table of first names
 and last names. You want them to display by order of last name. You'd do:
 
 `SELECT first_name, last_name FROM table ORDER BY last_name;`
+
 And lo and behold, you've got it.
 
 There are tons of ways to quiery. These are just a few, but they are some of the most common ones.
