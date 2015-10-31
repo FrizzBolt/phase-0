@@ -113,9 +113,29 @@ for (var position in voteCount) {
     }
 }
 console.log(officers)
+/*
+// REFLECTION
+
+What did you learn about iterating over nested objects in JavaScript?
+
+It's really difficult! I feel like we went about doing this the hard way, but it might be possible that
+JavaScript is just like that.
+
+Were you able to find useful methods to help you with this?
+
+Not yet! Unlike Ruby, there isn't a nice concise place to find all of the methods you need in one place.
+I'll be going back over this assignment next week and looking for even more ways to refactor this. It looks
+pretty nice as is, but I have a feeling there's an easier way to do this.
 
 
+What concepts were solidified in the process of working through this challenge?
 
+For - in loops were a mystery before I started this and they're pretty handy for object iteration.
+Accessing nested objects in JS is much more difficult than it is in Ruby. It was good to get some practice with
+these.
+
+
+// Test Files
 /*
 function assert(test, message, test_number) {
   if (!test) {
