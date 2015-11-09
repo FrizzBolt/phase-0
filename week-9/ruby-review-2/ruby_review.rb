@@ -3,8 +3,11 @@
 
 # Pseudocode
 
-#Make a new function that calculates the fibonacci sequence number at any given inputted position
-#
+#Make a new sequence that calculates the fibonacci sequence number at any given inputted position
+#Iterate up that sequence until the inputted number is reached and store the results
+#Compare the stored result to the number inputted
+#IF the number inputted is equal to a stored fibonacci number
+#Then return true. Otherwise, return false.
 
 # Initial Solution
 

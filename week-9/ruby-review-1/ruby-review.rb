@@ -4,6 +4,11 @@
 
 # Pseudocode
 
+# Take a series of numbers as input.
+# If a number in the series is divisible by 15, replace that number to "FizzBuzz" in the storage unit
+# If the number is divisible by 3, replace it with "Fizz"
+# If the number is divisible by 5, replace it with "Buzz"
+# Otherwise, the number will stay the same.
 
 
 # Initial Solution
